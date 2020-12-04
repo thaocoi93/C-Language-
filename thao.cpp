@@ -31,8 +31,8 @@ int intTro(int key){
 int cheDoMode(int cheDo){
 	if (cheDo == 1){
 		cout << "1. Tần số xuất hiện" << endl;
-		cout << "2.Mang co 2 gia tri 0 lien tiếp";
-		cout << "2. So phan tu chi xuat hien 1 trong 2 mang la" << endl;
+		cout << "2.Mang co 2 gia tri 0 lien tiếp" << endl;
+		cout << "3. So phan tu chi xuat hien 1 trong 2 mang la" << endl;
 	}
 	else {
 		cout << "Dang cap nhap" << endl;
